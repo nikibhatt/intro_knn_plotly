@@ -14,7 +14,7 @@ app.title='knn'
 ########### Set up the layout
 app.layout = html.Div(children=[
     html.H1('This is the headline'),
-    html.Div(['Stuff will go here!']),
+    html.Div(['My Stuff will go here!']),
     html.Br(),
     html.A('Code on Github', href='https://github.com/austinlasseter/knn_iris_plotly'),
 ])
